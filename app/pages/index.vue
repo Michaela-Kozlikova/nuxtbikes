@@ -1,6 +1,6 @@
 <script setup>
 const bikes = [
-							{ id: 1, name: 'Honda CBR', img: '/pics/moto-gallery/honda-cbr-repsol.jpg'},
+							{ id: 1, name: 'Honda CBR', img: '/pics/moto-gallery/honda-cbr-repsol.JPG'},
 							{ id: 2, name: 'Honda CBR 1000RR', img: '/pics/moto-gallery/honda-CBR1000rr.jpeg'},
 							{ id: 3, name: 'Honda Hornet', img: '/pics/moto-gallery/honda-hornet.jpg'},
 							{ id: 4, name: 'Honda XL 750 Transalp', img: '/pics/moto-gallery/honda-xl750-transalp.jpeg'},
